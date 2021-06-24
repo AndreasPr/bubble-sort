@@ -1,3 +1,3 @@
-# bubble sort-algorithm
+# bubble sort algorithm
 
 Implementation in Java
